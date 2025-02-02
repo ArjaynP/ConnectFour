@@ -1,7 +1,5 @@
 # Connect Four
-I have created the board game, "Connect Four", using the programming language Python. This was a mini project I chose to develop during my spare time as this was not a common project constructed by other 
-developers. The program follows all rules of the game, where players can win by either having 4 in a row horizontally, vertically, or diagonally. The dimensions for this particular game is a 6x7 board. In other 
-words, the board is designed as 6 rows and 7 columns. Therefore, I initialized a nested list called board that contains the 7 columns as elements, and the 6 rows within each element. 
+I have created the board game, "Connect Four", using the programming language Python. The entire project was created all on one file. This was a project I chose to develop during my spare time as this was not a common project constructed by other developers. The program follows all rules of the game, where players can win by either having 4 in a row horizontally, vertically, or diagonally. The dimensions for this particular game is a 6x7 board. In other words, the board is designed as 6 rows and 7 columns. Therefore, I initialized a nested list called board that contains the 7 columns as elements, and the 6 rows within each element. 
 
 ```
 board = [["-"] * 6, ["-"] * 6, ["-"] * 6, ["-"] * 6, ["-"] * 6, ["-"] * 6, ["-"] * 6]
